@@ -1,0 +1,22 @@
+[
+    {
+        "description":"Login with wrong format email",
+        "email": "anhthu@",
+        "password": "anhthu123"
+    },
+    {
+        "description":"Login with wrong format email",
+        "email": "abcxyz",
+        "password": "anhthu123"
+    },
+    {
+        "description":"Login with invalid password",
+        "email": "21120185@student.hcmus.edu.vn",
+        "password":"rgfndj"
+    },
+    {
+        "description":"Login with invalid email",
+        "email": "fjh@student.hcmus.edu.vn",
+        "password":"anhthu123"
+    }
+]

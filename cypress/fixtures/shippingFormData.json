@@ -1,0 +1,15 @@
+[
+    {
+        "description":"Valid shipping information",
+        "address": "113 Le Van Viet",
+        "city": "HCMC",
+        "code": "59",
+        "country": "VietNam"
+    },
+    {
+        "description":"Lack address information",
+        "city": "HCMC",
+        "code": "59",
+        "country": "VietNam"
+    }
+]
